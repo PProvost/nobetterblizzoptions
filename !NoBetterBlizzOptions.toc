@@ -1,0 +1,11 @@
+## Interface: 30000
+ 
+## Title: !NoBetterBlizzOptions
+## Notes: Prevents LibBetterBlizzOptions-1.0 from loading
+## Author: Quaiche
+## X-Category: Miscellaneous
+## X-License: Apache 2.0
+## OptionalDeps: tekDebug, tekErr
+ 
+NoLBBO.lua
+
