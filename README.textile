@@ -1,0 +1,10 @@
+h2. What is NoBetterBlizzOptions?
+
+Simply put, it prevents the LibBetterBlizzOptions-1.0 library from loading.
+
+h2. Why did you do this?
+
+I did this for myself and am only distributing it in case someone else finds it useful. There are a few addons out there that "embed" LibBetterBlizzOptions-1.0 within their distribution package. This library makes broad changes to the built-in configuration UI that can cause problems with other addons. I ran into this issue myself and got annoyed by it. Sure, I could remove the offending library every time I update my addons, but that was quite frustrating to do every time an addon updated that re-installed it.
+
+So I wrote this little 2 line addon to resolve the issue for me. If you find it useful, great. If not, don't install it. Honestly that is how the BetterBlizzOptions should be too. It should be the user's choice to install it and not the addon author's.
+
