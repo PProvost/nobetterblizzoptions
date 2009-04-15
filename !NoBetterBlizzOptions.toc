@@ -1,7 +1,8 @@
-## Interface: 30000
+## Interface: 30100
 ## Title: !NoBetterBlizzOptions
 ## Notes: Prevents LibBetterBlizzOptions-1.0 from loading
 ## Author: Quaiche
 ## X-Category: Miscellaneous
 ## X-License: Apache 2.0
+LibStub.lua
 NoLBBO.lua
