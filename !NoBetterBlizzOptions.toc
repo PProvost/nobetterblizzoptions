@@ -1,4 +1,4 @@
-## Interface: 30100
+## Interface: 30200
 ## Title: !NoBetterBlizzOptions
 ## Notes: Prevents LibBetterBlizzOptions-1.0 from loading
 ## Author: Quaiche
